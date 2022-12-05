@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-06T02:41:14 IST" name="Suite" finished-at="2022-12-06T02:43:00 IST" duration-ms="105989">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T02:41:14 IST" name="Pixel 6a" finished-at="2022-12-06T02:42:04 IST" duration-ms="49449">
+      <class name="MobileAutomation.SwiggyMobileApplication">
+        <test-method is-config="true" signature="OpenDevice()[pri:0, instance:MobileAutomation.SwiggyMobileApplication@10d307f1]" started-at="2022-12-06T02:41:14 IST" name="OpenDevice" finished-at="2022-12-06T02:41:32 IST" duration-ms="18133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenDevice -->
+        <test-method signature="TC_SwiggyApp()[pri:0, instance:MobileAutomation.SwiggyMobileApplication@10d307f1]" started-at="2022-12-06T02:41:32 IST" name="TC_SwiggyApp" finished-at="2022-12-06T02:42:04 IST" duration-ms="31231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SwiggyApp -->
+      </class> <!-- MobileAutomation.SwiggyMobileApplication -->
+    </test> <!-- Pixel 6a -->
+    <test started-at="2022-12-06T02:42:04 IST" name="Pixel XL" finished-at="2022-12-06T02:43:00 IST" duration-ms="56188">
+      <class name="MobileAutomation.SwiggyWebApplication">
+        <test-method is-config="true" signature="OpenDevice()[pri:0, instance:MobileAutomation.SwiggyWebApplication@4738a206]" started-at="2022-12-06T02:42:04 IST" name="OpenDevice" finished-at="2022-12-06T02:42:26 IST" duration-ms="21992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenDevice -->
+        <test-method signature="TC_SwiggyWeb()[pri:0, instance:MobileAutomation.SwiggyWebApplication@4738a206]" started-at="2022-12-06T02:42:26 IST" name="TC_SwiggyWeb" finished-at="2022-12-06T02:43:00 IST" duration-ms="34190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_SwiggyWeb -->
+      </class> <!-- MobileAutomation.SwiggyWebApplication -->
+    </test> <!-- Pixel XL -->
+  </suite> <!-- Suite -->
+</testng-results>
